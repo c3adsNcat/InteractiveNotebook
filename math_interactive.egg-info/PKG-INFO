@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: math-interactive
+Version: 0.1.0
+Summary: Interactive helpers for mathematics courses
+Requires-Python: >=3.9
