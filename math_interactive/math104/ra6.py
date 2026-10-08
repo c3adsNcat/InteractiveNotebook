@@ -1,6 +1,6 @@
-"""RA7: Binomial Theorem / Pascal's Triangle formative feedback.
+"""RA6: Binomial Theorem / Pascal's Triangle formative feedback.
 
-Imported by math_interactive.math131.__init__.
+Imported by math_interactive.math104.__init__.
 Authoritative grades are assigned by nbgrader, not this module.
 """
 import os
